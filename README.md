@@ -1,4 +1,4 @@
-<img width="1911" height="947" alt="image" src="https://github.com/user-attachments/assets/c330f79f-2ee5-4e60-96ad-105fc45ae0c7" />🗳️ India General Election 2024 — Interactive Explorer
+🗳️ India General Election 2024 — Interactive Explorer
 A React-based interactive web application that visualizes the complete results of the 2024 Indian General Election across 541 constituencies and 8,900+ candidates — making raw election data explorable, searchable, and visually engaging.
 🔗 Live Demo  |  📊 Data Source: Election Commission of India
 
